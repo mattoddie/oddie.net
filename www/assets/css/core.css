@@ -1,0 +1,13 @@
+html, body {
+	height:100%;
+	}
+
+h1 {
+	text-align:center;
+	position:absolute;
+	top:50%;
+	width:100%;
+	margin-top:-30px;
+        color:#eee;
+	font:bold 3em Verdana,Arial,Helvetica,sans-serif;
+	}
